@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
+<h3 align="center">a passionate Cyber Security Specialist | Blue Teamer</h3>
+
 - 📝 Connect with me **https://linkedin.com/in/teymurnovruzov**
 - 💬 **If you have any questions, you can ask me on LinkedIN**
 - 📫 E-mail address **teymurtagirovich@outlook.com**
 
-<h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
-<h3 align="center">a passionate Cyber Security Specialist | Blue Teamer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TeymurNovruzov&label=Profile%20views&color=0e75b6&style=flat" alt="TeymurNovruzov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TeymurNovruzov" alt="TeymurNovruzov" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
