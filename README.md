@@ -2,10 +2,8 @@
 - 💬 **If you have any questions, you can ask me on LinkedIN**
 - 📫 E-mail address **teymurtagirovich@outlook.com**
 
-![MasterHead](https://wallpaperaccess.com/full/981872.jpg)
 <h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
 <h3 align="center">a passionate Cyber Security Specialist | Blue Teamer</h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
