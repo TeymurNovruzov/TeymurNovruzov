@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
 <h3 align="center">A passionate Cyber Security Specialist | Blue Teamer</h3>
-<h3 align="center">(ISC)² Certified in Cybersecurity • NDEv1 • BTJA • NSE3 | Ranked 1st on CyberDefenders AZ</h3>
 
 </br>
 
