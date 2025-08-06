@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
-<h3 align="center">A passionate Cyber Security Specialist | Blue Teamer</h3>
+<h3 align="center">Cyber Security Specialist | Blue Teamer</h3>
 
 </br>
 
 <div>
   
-- 📝 Connect with me **https://linkedin.com/in/teymurnovruzov**
 - 💬 **If you have any questions, you can ask me on LinkedIN**
-- 📫 E-mail address **teymurtagirovich@outlook.com**
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TeymurNovruzov&label=Profile%20views&color=0e75b6&style=flat" alt="TeymurNovruzov" /> </p>
