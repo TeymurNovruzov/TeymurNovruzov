@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @TeymurNovruzov (@teymurtagirovich)</h1>
+<h1 align="center">Hi 👋, I'm @TeymurNovruzov</h1>
 <h3 align="center">Cyber Security Specialist | Blue Teamer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=TeymurNovruzov&label=Profile%20views&color=0e75b6&style=flat" alt="TeymurNovruzov" /> 
